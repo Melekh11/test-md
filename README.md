@@ -32,7 +32,7 @@
 * [`vite`](https://game-andromeda-client.vercel.app/) использовался в начале разработки
 * [`Яндекс.Облако`](error) - финальное решение размещения пректа
 
-<img align="right" width="300" height="500"
+<img align="right" width="200" height="400"
      alt="Game img"
      src="https://github.com/Melekh11/test-md/blob/main/Снимок%20экрана%202023-01-25%20в%2023.50.17.png">
 
