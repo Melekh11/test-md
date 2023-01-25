@@ -39,7 +39,7 @@
 * Весь контент странциц адаптивен для мобильных устройств
 
 <div style="display: flex;">
-     <img align="left" width="600" height="350"
+     <img align="left" width="550" height="300"
           alt="Game img"
           src="https://github.com/Melekh11/test-md/blob/main/Снимок%20экрана%202023-01-25%20в%2023.45.00.png">
      <img align="right" width="200" height="400"
