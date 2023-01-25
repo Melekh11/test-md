@@ -1,4 +1,4 @@
-# Andromeda Game✨
+# ✨Andromeda Game✨
 
 Учебный проект, разработанный в рамках курса [Мидл фронтенд-разработчик](https://practicum.yandex.ru/middle-frontend/)
 
