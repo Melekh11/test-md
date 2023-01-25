@@ -32,16 +32,19 @@
 * [`vite`](https://game-andromeda-client.vercel.app/) использовался в начале разработки
 * [`Яндекс.Облако`](error) - финальное решение размещения пректа
 
-<img align="right" width="200" height="400"
-     alt="Game img"
-     src="https://github.com/Melekh11/test-md/blob/main/Снимок%20экрана%202023-01-25%20в%2023.50.17.png">
+
 
 ## Хочется рассказать
 * В проект добавлена темизация
 * Весь контент странциц адаптивен для мобильных устройств
 
-<img align="left" width="600" height="350"
-     alt="Game img"
-     src="https://github.com/Melekh11/test-md/blob/main/Снимок%20экрана%202023-01-25%20в%2023.45.00.png">
+<div>
+     <img align="left" width="600" height="350"
+          alt="Game img"
+          src="https://github.com/Melekh11/test-md/blob/main/Снимок%20экрана%202023-01-25%20в%2023.45.00.png">
+     <img align="right" width="200" height="400"
+          alt="Game img"
+          src="https://github.com/Melekh11/test-md/blob/main/Снимок%20экрана%202023-01-25%20в%2023.50.17.png">
+</div>
 
 
