@@ -30,7 +30,7 @@
 
 ## Деплой
 * [`vite`](https://game-andromeda-client.vercel.app/) использовался в начале разработки
-* [`Яндекс.Облако`](error) - финальное решение размещения пректа
+* [`Яндекс.Облако`](https://andromeda-andromeda-19.ya-praktikum.tech) - финальное решение размещения пректа
 
 
 
@@ -38,7 +38,7 @@
 * В проект добавлена темизация
 * Весь контент странциц адаптивен для мобильных устройств
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex;">
      <img align="left" width="600" height="350"
           alt="Game img"
           src="https://github.com/Melekh11/test-md/blob/main/Снимок%20экрана%202023-01-25%20в%2023.45.00.png">
