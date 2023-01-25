@@ -1,4 +1,4 @@
-# ✨Andromeda Game✨
+# ✨Journey to the Andromeda✨
 
 <img align="right" width="95" height="95"
      alt="Game logo"
@@ -46,5 +46,9 @@
           alt="Game img"
           src="https://github.com/Melekh11/test-md/blob/main/Снимок%20экрана%202023-01-25%20в%2023.50.17.png">
 </div>
+
+
+## Демо
+<video src='https://github.com/Melekh11/test-md/blob/main/final%20game%20video.mp4' width=180/>
 
 
