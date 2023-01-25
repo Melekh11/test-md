@@ -38,7 +38,7 @@
 * В проект добавлена темизация
 * Весь контент странциц адаптивен для мобильных устройств
 
-<div>
+<div style="display: flex; align-items: center;">
      <img align="left" width="600" height="350"
           alt="Game img"
           src="https://github.com/Melekh11/test-md/blob/main/Снимок%20экрана%202023-01-25%20в%2023.45.00.png">
